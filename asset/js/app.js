@@ -20,9 +20,9 @@ const notRandomIcon = '<i class="fa-solid fa-shuffle icons"></i>';
 
 var songs = [
   {
-    path: "asset/music/Halamithi Habibo (Hindi) - Lyric Video _ Beast _ Thalapathy Vijay _ Sun Pictures _ Nelson _ Anirudh ( 256kbps cbr ).mp3",
+    path: "asset/music/Tokyo Drift - Various.mp3",
     title: "Halamithi Habibo (Hindi)",
-    image: "asset/img/music12.jpeg",
+    image: "asset/img/music12.jpg",
   },
   {
     path: "asset/music/Ye Mumkin To Nahi Jo Dil Ne Chaha Tha Wo Mil Jaye (LYRICS) - SAHIR ALI BAGGA _ NEW SAD SONG 2020 _.m4a",
